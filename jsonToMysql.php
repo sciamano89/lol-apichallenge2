@@ -3,7 +3,7 @@
 	//Author: Raimondo Previdi
 	//Date: 8-20-2015
 	//Contact: raimondo.previdi@gmail.com
-	//Sources: 	- http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
+	//Sources:	- http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
 	//			- php.net
 	//Info: This script is intented to run in a loop for about 8.3 hours: it grabs Riot's JSON data on the NA 5v5
 	//		Ranked games from patch 5.11, stores it in PHP arrays, pushes them properly formatted to my own MySQL
