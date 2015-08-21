@@ -1,6 +1,6 @@
 <?php
 	//--------------------------------------------------------------------------------------------------------------
-    //Author: Raimondo Previdi
+	//Author: Raimondo Previdi
 	//Date: 8-20-2015
 	//Contact: raimondo.previdi@gmail.com
 	//Sources: 	- http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
